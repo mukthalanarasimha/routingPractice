@@ -1,0 +1,23 @@
+.image_of_header {
+  height: 50px;
+}
+
+.Header_container {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  border-color: #6d396b;
+}
+.image_header {
+  display: flex;
+}
+.item_header {
+  display: flex;
+}
+.tab_item {
+  margin: 14px;
+  font-weight: bold;
+  font-family: 'roboto';
+  font-size: 25px;
+}
